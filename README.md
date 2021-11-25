@@ -6,7 +6,7 @@ The main goal of this project is to classify the heart condition from the heart 
 
 
 ## Table of contents
-* [Project Proposal]()
-* [Project MVP]()
-* [Project Code]()
+* [Project Proposal](https://github.com/ReefAlturki/DeepLearningProject/blob/main/project-proposal.md)
+* [Project MVP](https://github.com/ReefAlturki/DeepLearningProject/blob/main/heart_sound.ipynb)
+* [Project Code](https://github.com/ReefAlturki/DeepLearningProject/blob/main/project_code.ipynb)
 * [Presentation]()
