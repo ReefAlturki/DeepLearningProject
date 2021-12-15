@@ -21,7 +21,7 @@ The automated classification of heart sounds plays a significant role in the dia
 ## Classifying Heart Condition
   
 
-The main goal of this project is to classify the heart condition from a heart rate audio. Using neural network tools such as Keras, we plan to build a neural network model with the appropriate use of layers to handle the heart rate audios, and to effectively classify normal/abnormal heart conditions. 
+The main goal of this project is to classify the heart condition from a heart rate audio. Using neural network tools such as Keras, we plan to build a neural network model with the appropriate use of layers to handle the heart rate recordings, and to effectively classify normal/abnormal heart conditions. 
 
 
   
