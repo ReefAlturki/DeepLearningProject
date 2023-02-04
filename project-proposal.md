@@ -29,7 +29,4 @@ The main goal of this project is to classify the heart condition from a heart ra
 ### Data Source
   
 In this project we aquired heart sound audio data from [kaggle](https://www.kaggle.com/swapnilpanda/heart-sound-database). The dataset is collected from physioNet website and it consists of 3540 original PCG audio recordings resampled at 2000Hz. The raw data provided is in [.WAV](https://en.wikipedia.org/wiki/WAV). format, which is an encoding of an audio. 
-## MVP
-- Summerizing and exploring the data.
-- Defining classification metrics.
-- Building the Model Baseline.
+
